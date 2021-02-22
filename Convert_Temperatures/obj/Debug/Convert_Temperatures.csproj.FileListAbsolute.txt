@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\Programs\Convert_Temperatures\Convert_Temperatures\bin\Debug\Convert_Temperatures.exe.config
+C:\Users\Lenovo\Desktop\Programs\Convert_Temperatures\Convert_Temperatures\bin\Debug\Convert_Temperatures.exe
+C:\Users\Lenovo\Desktop\Programs\Convert_Temperatures\Convert_Temperatures\bin\Debug\Convert_Temperatures.pdb
+C:\Users\Lenovo\Desktop\Programs\Convert_Temperatures\Convert_Temperatures\obj\Debug\Convert_Temperatures.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Programs\Convert_Temperatures\Convert_Temperatures\obj\Debug\Convert_Temperatures.Form1.resources
+C:\Users\Lenovo\Desktop\Programs\Convert_Temperatures\Convert_Temperatures\obj\Debug\Convert_Temperatures.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Programs\Convert_Temperatures\Convert_Temperatures\obj\Debug\Convert_Temperatures.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Programs\Convert_Temperatures\Convert_Temperatures\obj\Debug\Convert_Temperatures.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Programs\Convert_Temperatures\Convert_Temperatures\obj\Debug\Convert_Temperatures.exe
+C:\Users\Lenovo\Desktop\Programs\Convert_Temperatures\Convert_Temperatures\obj\Debug\Convert_Temperatures.pdb
